@@ -1,0 +1,2 @@
+Identity,Manufacturer,Model,PlugType,ACVoltage(MaxLimit),Tariff,Availability,AirCoolingSystem,FanSpeed,차종,시작시간,시작 배터리(%),목표 충전량(kWh),현재 배터리(%),경과시간,남은 충전시간(분),예상금액(원),투입된 전력량(kWh),현재금액
+I001,IGEN,MS001,DC콤보,380,292.9,Active,Active,4357,니로ev,2022-05-03T05:42:32+09:00,23%,36.48kWh,36.02%,10분,34분,10685원,8.33kWh,2440원
